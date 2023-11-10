@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm working on
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%231E90FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=%1E90FFC&color=%231266C4)
-![React](https://img.shields.io/badge/-React-%23282C34?style=for-the-badge&logo=react)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)](https://vuejs.org/)
